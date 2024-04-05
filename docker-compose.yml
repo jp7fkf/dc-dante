@@ -1,0 +1,6 @@
+version: '3'
+services:
+  dante:
+    image: wernight/dante
+    ports:
+      - '1080:1080'
